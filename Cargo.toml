@@ -1,6 +1,6 @@
 [package]
 name = "pump-amm-cpi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Anchor CPI client for the pump.fun AMM program."
 authors = ["Taishi <taishi.nojima@aya.yale.edu>"]
@@ -9,4 +9,4 @@ license = "Apache-2.0"
 
 [dependencies]
 anchor-gen = "0.3.1"
-anchor-lang = "0.30.1"
+anchor-lang = "0.31.0"
